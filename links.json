@@ -1,7 +1,10 @@
 {
-  "src": "https://sdtheory.blogspot.com/2025/09/10-most-beautiful-forests-in-world-you.html",
-  "src": "https://sdtheory.blogspot.com/2025/09/how-spending-time-in-nature-boosts-your.html",
-  "src": "https://sdtheory.blogspot.com/2025/09/top-national-parks-in-your-country-for.html",
-  "src": "https://sdtheory.blogspot.com/2025/09/why-birdwatching-is-new-hobby-everyone.html",
-  "src": "https://sdtheory.blogspot.com/2025/09/the-science-behind-why-we-feel-relaxed.html"
+  "links": [
+    {"src": "https://sdtheory.blogspot.com/2025/09/10-most-beautiful-forests-in-world-you.html"},
+    {"src": "https://sdtheory.blogspot.com/2025/09/how-spending-time-in-nature-boosts-your.html"},
+    {"src": "https://sdtheory.blogspot.com/2025/09/top-national-parks-in-your-country-for.html"},
+    {"src": "https://sdtheory.blogspot.com/2025/09/why-birdwatching-is-new-hobby-everyone.html"},
+    {"src": "https://sdtheory.blogspot.com/2025/09/the-science-behind-why-we-feel-relaxed.html"}
+  ]
 }
+
